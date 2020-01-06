@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+cmake-build-*/
+abc
+agc
+atc
+dp
+config.ini
